@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "8dbd87a552cbec36e0ebc45e4262b61045be672a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "PackageTransportServices/1.0.0": {
+        "dependencies": {
+          "CK.System.Collections.Generic": "0.0.3",
+          "System.Collections": "4.3.0"
+        },
+        "runtime": {
+          "PackageTransportServices.dll": {}
+        }
+      },
+      "CK.System.Collections.Generic/0.0.3": {
+        "runtime": {
+          "lib/net461/CK.System.Collections.Generic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Collections/4.3.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Runtime/4.3.0": {}
+    }
+  },
+  "libraries": {
+    "PackageTransportServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CK.System.Collections.Generic/0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v7lq6F8NuZQLvaL/kKw7ZVLj2yCZoWHBdD4mRdQAhRPJapu6zCGcur73c3BPZ1uEmhrShUvVfDJbXZwnD92e/A==",
+      "path": "ck.system.collections.generic/0.0.3",
+      "hashPath": "ck.system.collections.generic.0.0.3.nupkg.sha512"
+    },
+    "System.Collections/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+      "path": "system.collections/4.3.0",
+      "hashPath": "system.collections.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    }
+  }
+}

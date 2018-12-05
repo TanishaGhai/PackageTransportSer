@@ -1,0 +1,11 @@
+/Users/tanishaghai/Desktop/PackageTransportServices/obj/Debug/netcoreapp2.1/PackageTransportServices.csprojAssemblyReference.cache
+/Users/tanishaghai/Desktop/PackageTransportServices/obj/Debug/netcoreapp2.1/PackageTransportServices.csproj.CoreCompileInputs.cache
+/Users/tanishaghai/Desktop/PackageTransportServices/obj/Debug/netcoreapp2.1/PackageTransportServices.AssemblyInfoInputs.cache
+/Users/tanishaghai/Desktop/PackageTransportServices/obj/Debug/netcoreapp2.1/PackageTransportServices.AssemblyInfo.cs
+/Users/tanishaghai/Desktop/PackageTransportServices/bin/Debug/netcoreapp2.1/PackageTransportServices.deps.json
+/Users/tanishaghai/Desktop/PackageTransportServices/bin/Debug/netcoreapp2.1/PackageTransportServices.runtimeconfig.json
+/Users/tanishaghai/Desktop/PackageTransportServices/bin/Debug/netcoreapp2.1/PackageTransportServices.runtimeconfig.dev.json
+/Users/tanishaghai/Desktop/PackageTransportServices/bin/Debug/netcoreapp2.1/PackageTransportServices.dll
+/Users/tanishaghai/Desktop/PackageTransportServices/bin/Debug/netcoreapp2.1/PackageTransportServices.pdb
+/Users/tanishaghai/Desktop/PackageTransportServices/obj/Debug/netcoreapp2.1/PackageTransportServices.dll
+/Users/tanishaghai/Desktop/PackageTransportServices/obj/Debug/netcoreapp2.1/PackageTransportServices.pdb
